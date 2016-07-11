@@ -1,3 +1,8 @@
+
+
+git checkout "nome do branch" # muda o branch!!
+
+
 será que eu consigo botar isso no github?
 
 =s
